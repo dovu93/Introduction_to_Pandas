@@ -1,6 +1,6 @@
 # Unit 4 Homework Assignment: A Whale Off the Port(folio)
 
-(save to insert an image)
+![](https://i.redd.it/y1rh8t8udo451.jpg)
 
 ## Background
 
