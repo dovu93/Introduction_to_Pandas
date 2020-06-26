@@ -14,3 +14,28 @@ You will need to create a tool (an analysis notebook) that analyzes and visualiz
 
 ### Quantitative Analysis
 
+#### Performance Analysis:
+
+1. From the output of block 36, we can conclude that Algorithm 1s' portfolio and Berkshire Hathaway Incs' portfolio has outperformed the S&P 500.
+
+#### Risk Analysis:
+
+1. Tiger Global Management LLC. has the largest spread among it's daily change. While Paulson & Co. Inc. has the smallest spread among it's daily change.
+
+2. From the output of block 39, we can conclude that Tiger Global Management LLC. and Berkshire Hathaway Inc. have higher risk associated with them than the S&P 500 index. 
+
+#### Rolling Statistics
+
+1. Yes, the risk increasess for each portfolio when the risk for the S&P 500 increases. However the S&P 500 doesn't always increase when the other portfolio's risk increases.
+
+2. Algorithm 2's portfolio closely matches the S&P 500.
+
+3. I picked Algorithm 1. Algorithm 1's portfolio does not seem sensitive to the S&P 500.
+
+### Plot Sharpe Ratios
+
+2. Algorithm 1's portfolio outperformed the Whale's portfolio along with the S&P 500. Algorithm 2's portfolio fell short to the S&P 500 and Berkshire Hathaway Inc. However it did outperform all the others. 
+
+### Create a Custom Portfolio
+
+After creating my portfolio consisting of: AMZN, BP, NKE and DIS, I've concluded that between January 2017 and April 2019 my portfolio outperformed every portfolio except Berkshire Hathaway Inc. However looking at the sharpe ratio, we can conclude that my portfolio carries less risk for the return compared to Berkshire Hathaway Inc. 
